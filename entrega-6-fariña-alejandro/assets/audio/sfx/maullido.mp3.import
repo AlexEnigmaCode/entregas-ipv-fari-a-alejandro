@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/maullido.mp3-c27016602e19a2a5e04b95aa61a2c22b.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/sfx/maullido.mp3"
+dest_files=[ "res://.import/maullido.mp3-c27016602e19a2a5e04b95aa61a2c22b.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

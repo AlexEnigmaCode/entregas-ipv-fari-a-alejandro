@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/gritonena.mp3-ac4aabe741bfc24ca325273f88054754.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/sfx/gritonena.mp3"
+dest_files=[ "res://.import/gritonena.mp3-ac4aabe741bfc24ca325273f88054754.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

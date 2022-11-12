@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/GunSnglShotFireEx PE1107203.mp3-1c32efdb7f10fe907819e89eabe070e2.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/sfx/GunSnglShotFireEx PE1107203.mp3"
+dest_files=[ "res://.import/GunSnglShotFireEx PE1107203.mp3-1c32efdb7f10fe907819e89eabe070e2.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/LionGrowlAngryGene PE931903.mp3-263f8a7970924fd858fd14e317df48de.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/sfx/LionGrowlAngryGene PE931903.mp3"
+dest_files=[ "res://.import/LionGrowlAngryGene PE931903.mp3-263f8a7970924fd858fd14e317df48de.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

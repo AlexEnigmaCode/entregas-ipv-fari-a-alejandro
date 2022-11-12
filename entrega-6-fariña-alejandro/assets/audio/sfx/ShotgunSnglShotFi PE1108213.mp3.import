@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/ShotgunSnglShotFi PE1108213.mp3-3d6a04224b9c6543be80ccd05c3c90ea.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/sfx/ShotgunSnglShotFi PE1108213.mp3"
+dest_files=[ "res://.import/ShotgunSnglShotFi PE1108213.mp3-3d6a04224b9c6543be80ccd05c3c90ea.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

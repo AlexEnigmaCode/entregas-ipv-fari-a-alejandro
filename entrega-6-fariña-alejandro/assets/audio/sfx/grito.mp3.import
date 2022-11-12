@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/grito.mp3-77ba14bd546aef57a42fd53308f9976a.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/sfx/grito.mp3"
+dest_files=[ "res://.import/grito.mp3-77ba14bd546aef57a42fd53308f9976a.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
