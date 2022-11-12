@@ -32,7 +32,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="entrega-5-greco-ventura-german"
+config/name="entrega-5-fariña-alejandro"
 run/main_scene="res://Main.tscn"
 config/icon="res://icon.png"
 
